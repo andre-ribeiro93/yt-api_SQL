@@ -1,6 +1,6 @@
 # yt-api_SQL
 
-## API do projeto yt-project_int.SQL
+## API do projeto yt-api_SQL
 
 Essa é uma versão inicial que foi criada com um banco SQL, a versão final foi refatorada para rodar com NoSQL utilizando o MongoDB.
 
