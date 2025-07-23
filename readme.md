@@ -11,7 +11,7 @@ Essa é uma versão inicial que foi criada com um banco SQL, a versão final foi
 
   - Express
 
-  - MongoDB + Mongoose
+  - MariaDB + MySQL Workbench
 
   - dotenv
 
@@ -28,7 +28,7 @@ Antes de começar, certifique-se de ter os seguintes recursos instalados em sua 
 
   - Node.js
 
-  - MongoDB (local ou Atlas)
+  - MariaDB + MySQL Workbench
 
   - npm
 
