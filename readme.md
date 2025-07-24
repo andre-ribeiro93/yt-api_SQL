@@ -4,6 +4,8 @@
 
 Essa é uma versão inicial que foi criada com um banco SQL, a versão final foi refatorada para rodar com NoSQL utilizando o MongoDB.
 
+Confira a versão final da API no seguinte link: https://github.com/andre-ribeiro93/yt-api_mongoDB
+
 
 ## 📦 Tecnologias utilizadas
 
